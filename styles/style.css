@@ -1,0 +1,22 @@
+
+/*
+	Last edited by: Roman Larionov 
+*/
+
+/* General  */
+
+html, body {
+	height: 100%;
+	width: 100%;
+	font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+/* Fancy Lyrics */
+
+.fancylyrics {
+	list-style-type: none;
+	color: black;
+	height: auto;
+	width: auto;
+	text-align: center;
+}
